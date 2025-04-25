@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Dimas Widianto
-- 👀 I’m interested in Python, PHP, Bootstrap
-- 🌱 I’m currently learning Bootstrap and Python
-- 💞️ I’m looking to collaborate on someone who wants to grow together
+- 👀 I’m interested in Python, SQL, and AI
+- 🌱 I’m currently learning Python, Database Management, and AI Prompting
 - 📫 How to reach me :
 Email : pythonic.dimsky03@gmail.com
 IG : _dimskyy03
