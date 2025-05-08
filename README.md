@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dimas Widianto
-- 👀 I’m interested in Python, SQL, and AI
+- 👀 I’m interested in Python, SQL, and AI Development
 - 🌱 I’m currently learning Python, Database Management, and AI Prompting
 - 📫 How to reach me :
 Email : pythonic.dimsky03@gmail.com
